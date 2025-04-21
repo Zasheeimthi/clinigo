@@ -757,6 +757,15 @@ progress {
     width: 16.66667%
 }
 
+@media (max-width:576px) {
+    .mbl_align {
+        text-align: center;
+    }
+    .mbl_footer {
+        padding-bottom: 30px;
+    }
+}
+
 @media (min-width:576px) {
     .col-sm {
         -ms-flex: 1 0 0%;
