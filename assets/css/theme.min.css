@@ -15329,7 +15329,7 @@ header .nav-link:hover {
 }
 
 .muse-brands img {
-    opacity: .5;
+    /* opacity: .5; */
     transition: all ease .4s
 }
 
